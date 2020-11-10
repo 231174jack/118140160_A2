@@ -1,2 +1,0 @@
-# PrakPemWeb
-Praktikum Pemrograman Web
